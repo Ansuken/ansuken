@@ -1,8 +1,4 @@
-<br clear="both">
 
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/7021170?v=4"  />
-</div>
 
 ###
 
@@ -20,7 +16,7 @@
 
 ###
 
-<h1 align="center">Welcome</h1>
+<h1 align="center">Hello Universe!</h1>
 
 ###
 
@@ -58,15 +54,13 @@
 
 ###
 
-<h3 align="left">👩‍💻  Quién soy yo?</h3>
-
-###
-
-<p align="left">Soy Oscar Benito y vivo en Madrid. En contacto con un ordenador desde hace 30 años (se dice pronto). Mis primeros pasos en Basic 1.0 con el Amstrad CPC 464 me han llevado hasta donde estamos ahora.<br><br>- 🔭 Trabajo como Desarrollador Frontend<br>- ⚡ En mi tiempo libre me encanta aprender, editar video y crear música</p>
-
-###
-
-<h3 align="left">🔥   Estadísticas</h3>
+<p align="left">Soy Oscar Benito y vivo en Madrid. En contacto con un ordenador desde hace <strong>30 años</strong> (se dice pronto). 
+  Mis primeros pasos en Basic 1.0 con el Amstrad CPC 464 me han llevado hasta donde estamos ahora.
+  <br><br>
+  -🔭 Trabajo como <strong>Desarrollador Frontend</strong> desde hace más de <strong>10 años</strong><br>
+  -⚡ En mi tiempo libre me encanta aprender, editar video y crear música<br>
+  -📧 Contacta conmigo en: <a href="mailto:ansuken@gmail.com" target="_blank">ansuken@gmail.com</a>
+</p>
 
 ###
 
